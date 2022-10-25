@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/med-query/static/css/main.3c0378c4.css",
-    "main.js": "/med-query/static/js/main.92625743.js",
+    "main.js": "/med-query/static/js/main.af4fa5bc.js",
     "static/js/787.71cf55fe.chunk.js": "/med-query/static/js/787.71cf55fe.chunk.js",
     "index.html": "/med-query/index.html",
     "main.3c0378c4.css.map": "/med-query/static/css/main.3c0378c4.css.map",
-    "main.92625743.js.map": "/med-query/static/js/main.92625743.js.map",
+    "main.af4fa5bc.js.map": "/med-query/static/js/main.af4fa5bc.js.map",
     "787.71cf55fe.chunk.js.map": "/med-query/static/js/787.71cf55fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c0378c4.css",
-    "static/js/main.92625743.js"
+    "static/js/main.af4fa5bc.js"
   ]
 }
